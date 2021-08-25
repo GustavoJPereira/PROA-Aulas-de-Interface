@@ -1,0 +1,41 @@
+a:link {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ffaabb;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: brown;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+#link01:link {
+    color: palevioletred;
+    
+}
+#link01:visited {
+    color: aqua;
+}
+
+#link01:hover {
+    color: royalblue;
+}
+
+#link01:active {
+    color: burlywood;
+}
+
+#transição {
+    transition: 0.5;
+}
