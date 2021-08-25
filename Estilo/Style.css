@@ -1,0 +1,76 @@
+body {
+    background-color: bisque;
+}
+
+p {
+    color: blue;
+}
+
+ins {
+    color: aqua;
+}
+
+#paragrafo01 {
+    color: red;
+    padding-right: 5px;
+}
+
+#paragrafo02 {
+    font-size: 2.5em;
+    font-family: 'Courier New', Courier, monospace;
+    color: seagreen;
+    text-align: justify;
+}
+
+abrr:hover {
+    background-color: tomato;
+}
+
+/* span é feito para se smpamar no meio das minhas  */
+.format {
+    color: snow;
+    background-image: linear-gradient(to right, red, blue);
+}
+
+#paragrafo06 {
+    border-radius: 10px;
+    border: 5px solid rgba(156, 156, 87, 0.9);
+    color: #454522;
+    background-color: hsla(10, 100%, 64%, 0.2);
+    margin: 50px;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+
+button {
+    background-color: aqua;
+    color: azure;
+    border-bottom: seagreen 15px;
+}
+
+
+
+
+
+/* #estilo pucha o estilo que foi posto no id  */
+/* .classe pucha a formatação da classe  */
+/* color escolhe a cor 
+font-family escolhe a fonte
+font-size é o tamanho
+text-align é o alinhamento
+border: px solid faz uma borda sólida
+rgb(red, green, blue) transforma o sistema em rgb
+hsl(a) 
+(h:hue-matiz
+s: saturity
+l: luminosity
+a: alfa)
+a: é alfa
+max-width: max-content; define o limite da margem como o tamanho da palavra
+pading é um espaçamento entre o item e a borda dele
+Margin cria distancia da borda e texto em relação ao restante do corpo
+
+background-image: linear-gradient(to right, cor cor) faz um degrade para a direita de uma cor para outra
+*/
